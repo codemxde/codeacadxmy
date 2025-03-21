@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.027" height="20.005" viewBox="0 0 20.027 20.005">
+    <defs>
+        <style>
+            .cls-1{fill:#ffe470}.cls-2{fill:#ffd400}
+        </style>
+    </defs>
+    <g id="Coin" transform="translate(-899.973 -27) translate(900 27)">
+        <g id="surface1">
+            <path id="Path_22" d="M10 0a10 10 0 1 0 10 10A10.034 10.034 0 0 0 10 0zm0 0" class="cls-1"/>
+            <path id="Path_23" d="M265.655 10A9.866 9.866 0 0 1 256 20V0a9.866 9.866 0 0 1 9.655 10zm0 0" class="cls-2" transform="translate(-245.655)"/>
+            <path id="Path_24" fill="#fdbf00" d="M68.7 61a7.7 7.7 0 1 0 7.7 7.7 7.714 7.714 0 0 0-7.7-7.7zm0 0" transform="translate(-58.699 -58.699)"/>
+            <path id="Path_25" fill="#ff9f00" d="M263.354 68.7A7.547 7.547 0 0 1 256 76.4V61a7.547 7.547 0 0 1 7.354 7.7zm0 0" transform="translate(-245.655 -58.699)"/>
+            <path id="Path_26" d="M186.657 128.249a2.35 2.35 0 0 1-2.263 2.416v.6a.567.567 0 1 1-1.131 0v-.6h-1.7a.605.605 0 0 1 0-1.208h2.829a1.211 1.211 0 0 0 0-2.416h-1.131a2.421 2.421 0 0 1 0-4.833v-.6a.567.567 0 1 1 1.131 0v.6h1.7a.605.605 0 0 1 0 1.208h-2.829a1.211 1.211 0 0 0 0 2.416h1.131a2.35 2.35 0 0 1 2.263 2.417zm0 0" class="cls-1" transform="translate(-173.829 -116.437)"/>
+            <path id="Path_27" d="M122.1 241.566a.566.566 0 1 1-.566-.566.566.566 0 0 1 .566.566zm0 0" class="cls-1" transform="translate(-116.237 -231.566)"/>
+            <path id="Path_28" d="M362.1 241.566a.566.566 0 1 1-.566-.566.566.566 0 0 1 .566.566zm0 0" class="cls-2" transform="translate(-346.842 -231.566)"/>
+            <path id="Path_29" d="M258.829 243.263a2.269 2.269 0 0 1-2.263 2.263v.566a.56.56 0 0 1-.566.566v-2.263h.566a1.131 1.131 0 1 0 0-2.263H256V241h.566a2.269 2.269 0 0 1 2.263 2.263zm0 0" class="cls-2" transform="translate(-245.941 -231.451)"/>
+            <path id="Path_30" d="M258.263 123.263H256V121a.56.56 0 0 1 .566.566v.566h1.7a.566.566 0 0 1 0 1.131zm0 0" class="cls-2" transform="translate(-245.941 -116.252)"/>
+        </g>
+        <g id="Coin_1_">
+            <g id="Ellipse_16" fill="#fec601" stroke="#cb9e00" stroke-width="2px">
+                <circle cx="10" cy="10" r="10" stroke="none"/>
+                <circle cx="10" cy="10" r="9" fill="none"/>
+            </g>
+            <path id="Path_7834" fill="#654f00" d="M297.482-400.426v1.9h-1.9v-1.9zm-3.806 3.806h5.707v-5.709h-5.707v5.709" transform="translate(-286.621 408.838)"/>
+            <path id="Path_7835" d="M9.663 0l-.012 19.845A10.156 10.156 0 0 1-.186 9.785 9.926 9.926 0 0 1 9.663 0z" transform="translate(.159 .16)" style="mix-blend-mode:overlay;isolation:isolate" fill="#fef9e5" opacity="0.495"/>
+        </g>
+    </g>
+</svg>
